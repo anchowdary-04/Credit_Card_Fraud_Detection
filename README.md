@@ -14,7 +14,7 @@ The dataset contains anonymized credit card transaction records. It includes hun
 
 ---
 ##  Project Overview
-Credit card fraud is a critical problem in the financial industry, where attackers exploit payment systems to make unauthorized transactions. The project applies data preprocessing, exploratory data analysis (EDA), and supervised machine learning algorithms to build a detection model that can flag suspicious transactions with high precision and recall. :contentReference[oaicite:1]{index=1}
+Credit card fraud is a critical problem in the financial industry, where attackers exploit payment systems to make unauthorized transactions. The project applies data preprocessing, exploratory data analysis (EDA), and supervised machine learning algorithms to build a detection model that can flag suspicious transactions with high precision and recall. 
 
 ###  Key Steps
 - Load and understand the dataset  
